@@ -1,5 +1,5 @@
 .nav-hamburger {
-  height: 2rem;
+  height: 1.5rem;
 }
 
 .nav-hamburger:hover {
@@ -18,10 +18,10 @@
 }
 
 .nav-login-link {
-  border: 0.125rem solid black;
+  border: 2px solid wheat;
   border-radius: 0.125rem;
   padding: 0.25rem 1.5rem;
-  background-color: white;
+  background-color: bisque;
 }
 
 @media (min-width: 768px) {

@@ -11,17 +11,17 @@ const Nav = () => {
       <ul className="nav-list">
         <li>
           <a className="nav-link" href="/">
-            Page1
+            Lorem
           </a>
         </li>
         <li>
           <a className="nav-link" href="/">
-            Page2
+            Ipsum
           </a>
         </li>
         <li>
           <a className="nav-link" href="/">
-            Page3
+            Dolor
           </a>
         </li>
         <li>

@@ -8,7 +8,7 @@
 
 .hero-title {
   width: 15rem;
-  color: wheat;
+  color: bisque;
   font-size: 2rem;
   margin-top: 0;
 }
@@ -22,11 +22,16 @@
 }
 
 .hero-search-button {
-  background-color: wheat;
+  background-color: bisque;
 }
-.hero-search-input,
-.hero-search-button {
+
+.hero-search-input {
   border: none;
+}
+
+.hero-search-button,
+.hero-search-input {
+  border: 1px solid wheat;
 }
 
 @media (min-width: 768px) {
