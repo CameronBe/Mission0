@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: aliceblue;
+  padding: 0.5rem 2rem;
+}
+
+.header-brand {
+  display: grid;
+  grid-template-columns: repeat(2, max-content);
+  gap: 1rem;
+  align-items: center;
+}
+
+.header-name {
+  display: inline-block;
+}
+
+.header-logo {
+  height: 2.9rem;
+}
