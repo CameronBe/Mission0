@@ -1,4 +1,4 @@
-# React + Vite
+# Mission 0: Digital News Site
 
 ## About
 
