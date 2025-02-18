@@ -10,22 +10,22 @@ const Nav = () => {
       />
       <ul className="nav-list">
         <li>
-          <a className="nav-link" href="#page1">
+          <a className="nav-link" href="/">
             Page1
           </a>
         </li>
         <li>
-          <a className="nav-link" href="#page2">
+          <a className="nav-link" href="/">
             Page2
           </a>
         </li>
         <li>
-          <a className="nav-link" href="#page3">
+          <a className="nav-link" href="/">
             Page3
           </a>
         </li>
         <li>
-          <a className="nav-link nav-login-link" href="#login">
+          <a className="nav-link nav-login-link" href="/">
             Login
           </a>
         </li>

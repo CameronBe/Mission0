@@ -1,0 +1,12 @@
+.main {
+  margin-top: 3rem;
+  display: grid;
+  gap: 3rem;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  .main {
+    grid-template-columns: repeat(3, max-content);
+  }
+}

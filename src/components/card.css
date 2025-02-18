@@ -1,0 +1,31 @@
+.card,
+.card-image {
+  width: 20rem;
+}
+
+.card-image {
+  display: block;
+  height: 12rem;
+}
+
+.card-info {
+  padding: 1rem;
+  padding-top: 0.5rem;
+  background-color: wheat;
+}
+
+.card-title,
+.card-description {
+  margin: 0;
+}
+
+@media (min-width: 768px) {
+  .card,
+  .card-image {
+    width: 14rem;
+  }
+
+  .card-image {
+    height: 8rem;
+  }
+}
