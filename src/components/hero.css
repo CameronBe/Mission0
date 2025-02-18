@@ -23,6 +23,7 @@
 
 .hero-search-button {
   background-color: bisque;
+  cursor: pointer;
 }
 
 .hero-search-input {
